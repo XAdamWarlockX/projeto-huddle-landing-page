@@ -18,6 +18,8 @@ Peguei esse projeto no Frontend Mentor com o intuito de demonstrar que consigo f
 
 Irei deixar o projeto no GitHub pages, mas se quiser acessar na sua máquina basta seguir o passo a passo a seguir.
 
+Irei deixar o projeto no GitHub pages, mas se quiser acessar na sua maquina basta seguir o passo a passo a seguir.
+
 Os passos estão seguidos de seus respectivos comandos para facilitar no entendimento.
 
 1 - Clone o projeto
