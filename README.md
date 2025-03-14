@@ -1,24 +1,26 @@
 # Huddle Landing Page
 
-## Linguagens Usadas
+## Tecnologias Usadas 👨‍💻
 
 - HTML <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
 - CSS <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-## Prévia
+## Prévia Desktop 💻
 
-<img src="./src/images/previa.png" alt="Prévia do projeto">
+<img height="350" src="./src/images/previa-desktop.gif" alt="Prévia do projeto no desktop">
 
-## Propósito da aplicação
+## Prévia Mobile 📱
+
+<img src="./src/images/previa-mobile.gif" alt="Prévia do projeto no mobile">
+
+## Propósito da aplicação 💡
 
 Peguei esse projeto no Frontend Mentor com o intuito de demonstrar que consigo fazer uma landing page atrativa e interativa.
 
-## Passo a passo para clonar o projeto
+## Passo a passo para clonar o projeto 📝
 
-Irei deixar o projeto no GitHub pages, mas se quiser acessar na sua máquina basta seguir o passo a passo a seguir.
-
-Os passos estão seguidos de seus respectivos comandos para facilitar no entendimento.
+Para clonar o projeto, você pode usar o terminal de sua preferência, o passo a passo a seguir usa os comandos do gitbash como exemplo.
 
 1 - Clone o projeto
 ```
@@ -32,3 +34,4 @@ cd quest-projeto-huddle-landing-page
 ```
 code .
 ```
+4 - Execute o projeto usando o Live server
